@@ -1,5 +1,4 @@
-# CourseManager 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" width="50" title="hover text">
+# CourseManager <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" width="50" title="hover text">
 
 Projeto Feito para desenvolver conhecimento na framework [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
