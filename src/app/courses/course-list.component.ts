@@ -14,8 +14,8 @@ export class CourseListComponent implements OnInit {
         this.courses = [
             {
                 id: 1,
-                name: "Angula",
-                imageUrl: "",
+                name: "Angular",
+                imageUrl: "/assets/images/forms.png",
                 price: 99.99,
                 code: "XPS123",
                 duration: 120,
@@ -24,8 +24,8 @@ export class CourseListComponent implements OnInit {
             },
             {
                 id: 2,
-                name: "Angula",
-                imageUrl: "",
+                name: "Angular",
+                imageUrl: "/assets/images/http.png",
                 price: 99.99,
                 code: "XPS123",
                 duration: 120,
