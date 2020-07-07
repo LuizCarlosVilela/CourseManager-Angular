@@ -1,6 +1,17 @@
 import { Course } from './course';
+import { Injectable } from '@angular/core';
 
+
+@Injectable({
+    providedIn: "root"
+})
 export class CourseService {
+
+    
+
+    retriveAll(): Course[]{
+        return COURSES;
+    }
 
 }
 
