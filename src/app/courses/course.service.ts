@@ -13,6 +13,10 @@ export class CourseService {
         return COURSES;
     }
 
+    retriveById(id: number): Course{
+        return COURSES.find( (course: Course) => course.id == id );
+    }
+
 }
 
 var COURSES: Course[] = [
