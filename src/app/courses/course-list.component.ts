@@ -18,6 +18,18 @@ export class CourseListComponent implements OnInit {
     this.retriveAll();
   }
 
+  deleteById(courseId: number): void {
+    this.courseService.deleteById(courseId).subscribe({
+      next: (msg) => {
+        console.log('Deleted with sucess');
+        this.retriveAll();
+      },
+      error: (msg) => {
+        console.log('Deleted with error: ', msg);
+      },
+    });
+  }
+
   retriveAll(): void {
     this.courseService.retriveAll().subscribe({
       next: (courses) => {
