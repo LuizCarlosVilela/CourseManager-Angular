@@ -16,6 +16,7 @@
 </div>
 <h3 align=center>
 :books:
+  
 ***Course Manager*** é um projeto para desenvolvimento de conhecimento na ***framework Angular*** ( Angular >= 9) e seus recursos. Desenvolvi todo o projeto utilizando as tecnologias ***TypeScript, Node, Angular e Bootstrap***
 </h3>
 <h1 align=center>
