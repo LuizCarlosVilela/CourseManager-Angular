@@ -13,21 +13,14 @@
   <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
     <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
   </a>
-
 </div>
-
 <h3 align=center>
-  
 :books:
 ***Course Manager*** é um projeto para desenvolvimento de conhecimento na ***framework Angular*** ( Angular >= 9) e seus recursos. Desenvolvi todo o projeto utilizando as tecnologias ***TypeScript, Node, Angular e Bootstrap***
-
 </h3>
-
-
 <h1 align=center>
   <img src="assets/Home.png" alt="Tela Home"/>
 </h1>
-
 <br /><br />
 
 
