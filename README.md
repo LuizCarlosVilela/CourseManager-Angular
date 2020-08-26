@@ -19,7 +19,7 @@
 <h3 align=center>
   
 :books:
-**Course Manager** é um projeto para desenvolvimento de conhecimento na ***framework Angular***, onde eu consegui fazer um ***site responsivo*** que com um ***CRUD*** - Create (Criação), Retrieve (Consulta), Update (Atualização) e Delete (Destruição) consegue manipular os dados a serem apresentados ao usuário, todos os dados vem de uma ***API RestFull*** criada por mim também. Desenvolvi todo o projeto utilizando as tecnologias ***TypeScript, Node, Angular e Bootstrap***
+***Course Manager*** é um projeto para desenvolvimento de conhecimento na ***framework Angular***, onde eu consegui fazer um ***site responsivo*** que com um ***CRUD*** - Create (Criação), Retrieve (Consulta), Update (Atualização) e Delete (Destruição) consegue manipular os dados a serem apresentados ao usuário, todos os dados vem de uma ***API RestFull*** criada por mim também. Desenvolvi todo o projeto utilizando as tecnologias ***TypeScript, Node, Angular e Bootstrap***
 
 </h3>
 
