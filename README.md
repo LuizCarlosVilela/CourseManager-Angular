@@ -1,6 +1,26 @@
-# CourseManager  <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" width="40" title="hover text">
+# ***CourseManager :computer:*** 
 
-Projeto Feito para desenvolver conhecimento na framework [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+<h1 align=center>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png"  width="50" alt="Logo Angular" />
+</h1>
+
+<div align=center>
+
+![MIT][mit] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC)](https://github.com/ellerbrock/typescript-badges/)
+  
+  <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
+    <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
+  </a>
+
+</div>
+
+<h3 align=center>
+  
+:books:
+***Course Manager*** é um projeto para desenvolvimento de conhecimento na ***framework Angular***, onde eu consegui fazer um ***site responsivo*** que com um ***CRUD*** - Create (Criação), Retrieve (Consulta), Update (Atualização) e Delete (Destruição) consegue manipular os dados a serem apresentados ao usuário, todos os dados vem de uma ***API RestFull*** criada por mim também. Desenvolvi todo o projeto utilizando as tecnologias ***TypeScript, Node, Angular e Bootstrap***
+
+</h3>
+
 
 ## Tecnologias Usadas
 
